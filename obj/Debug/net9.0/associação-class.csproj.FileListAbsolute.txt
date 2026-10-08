@@ -1,0 +1,14 @@
+C:\Users\50363240802\Desktop\workspace\PBW\associação-class\obj\Debug\net9.0\associação-class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50363240802\Desktop\workspace\PBW\associação-class\obj\Debug\net9.0\associação-class.AssemblyInfoInputs.cache
+C:\Users\50363240802\Desktop\workspace\PBW\associação-class\obj\Debug\net9.0\associação-class.AssemblyInfo.cs
+C:\Users\50363240802\Desktop\workspace\PBW\associação-class\obj\Debug\net9.0\associação-class.csproj.CoreCompileInputs.cache
+C:\Users\50363240802\Desktop\workspace\PBW\associação-class\bin\Debug\net9.0\associação-class.exe
+C:\Users\50363240802\Desktop\workspace\PBW\associação-class\bin\Debug\net9.0\associação-class.deps.json
+C:\Users\50363240802\Desktop\workspace\PBW\associação-class\bin\Debug\net9.0\associação-class.runtimeconfig.json
+C:\Users\50363240802\Desktop\workspace\PBW\associação-class\bin\Debug\net9.0\associação-class.dll
+C:\Users\50363240802\Desktop\workspace\PBW\associação-class\bin\Debug\net9.0\associação-class.pdb
+C:\Users\50363240802\Desktop\workspace\PBW\associação-class\obj\Debug\net9.0\associação-class.dll
+C:\Users\50363240802\Desktop\workspace\PBW\associação-class\obj\Debug\net9.0\refint\associação-class.dll
+C:\Users\50363240802\Desktop\workspace\PBW\associação-class\obj\Debug\net9.0\associação-class.pdb
+C:\Users\50363240802\Desktop\workspace\PBW\associação-class\obj\Debug\net9.0\associação-class.genruntimeconfig.cache
+C:\Users\50363240802\Desktop\workspace\PBW\associação-class\obj\Debug\net9.0\ref\associação-class.dll
